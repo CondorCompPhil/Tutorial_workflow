@@ -8,8 +8,6 @@ abstract: |
   This is an exemple of subfile.
 ---
 
-# Title 1
-
 ## Title 2
 
 ### Title 3
