@@ -10,7 +10,8 @@ abstract: |
   This is the abstract.
 
   It consists of two paragraphs. And it does not say much about the document.
-...
+---
+
 
 # Title 1
 
@@ -60,18 +61,18 @@ A more complex list
 
 Some code:
 
-```{xml}
+```xml
 <hello>World</hello>
 ```
 
-```{python}
+```python
 import condorcet
 for i in workshop.days():
     tutorial.write()
 
 ```
 
-Some inline code: `{r}print("Hello world")`
+Some inline code: `print("Hello world")`
 
 An image:
 
@@ -108,6 +109,6 @@ Some html
 <del>Goodbye world</del>
 
 
-
+**/!\ D O N O T F O R G E T T O C O M M I T Y O U R C H A N G E S /!\**
 
 
