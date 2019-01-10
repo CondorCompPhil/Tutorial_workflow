@@ -16,8 +16,9 @@ The root file of the tutorial is []().
 
 ## Workshop Schedule
 
-### Session 1. Days 1 and 2 (14 January afternoon and 15 January) : acquisition of the text
+## Session 1. Days 1 and 2 (14 January afternoon and 15 January) : acquisition of the text
 
+### Monday 14 January
 14h-15h30: general introduction and text acquisition
 
 - introduction to the workshop, its goals;
@@ -27,18 +28,24 @@ The root file of the tutorial is []().
 
 15h30-15h45: break
 
-15h45-17h15: Benjamin Kiessling, _Kraken_
+15h45-16h15: data copying, explanation of formats, launch training if needed
 
+16h15-17h45 : C. Kermorvant (Teklia) 
 
+## Tuesday 15 January
+9:00-10:30 G. Mühlberger (Transkribus)
 
-Günter Mühlberger: Transkribus
+10h30-10h45: break
 
-Sofia Ares Oliveira: VeniceTimeMachine
+10h45-12:15: S. Oliveira Ares (EPFL > VeniceTimeMachine)
 
-Marcel Würsch: DIVA Services
+13:45-15:15: M. Würsch (Diva)
 
-Christopher Kermorvant: Teklia
+15:15-15:30: break
 
+15:30-17:00: B. Kiessling (PSL Scripta > _Kraken_)
+
+17h00-17h30: closing discussion and work on the tutorial.
 
 ## Session 2. Days 3 and 4 (16 January afternoon and 17 January) : enriching the text
 
