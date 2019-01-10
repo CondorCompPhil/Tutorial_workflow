@@ -30,10 +30,10 @@ The root file of the tutorial is []().
 
 15h45-16h15: data copying, explanation of formats, launch training if needed
 
-16h15-17h45 : C. Kermorvant (Teklia) 
+16h15-17h45 : G. Mühlberger (Transkribus) 
 
 ## Tuesday 15 January
-9:00-10:30 G. Mühlberger (Transkribus)
+9:00-10:30 : C. Kermorvant (Teklia)
 
 10h30-10h45: break
 
