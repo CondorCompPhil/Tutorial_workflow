@@ -12,7 +12,7 @@ abstract: |
 ---
 
 
-# Title 1
+# Introduction
 
 ## Title 2
 
@@ -20,4 +20,6 @@ abstract: |
 
 ![alt text](./workflow.png "ENC example workflow")
 
+## The main steps
 
+- [./01_Text_Acquisition/Text_Acquisition.md](Text Acquisition)
