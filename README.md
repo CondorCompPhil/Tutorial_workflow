@@ -85,7 +85,7 @@ The root file of the tutorial is []().
 
 11h30-12h45: Stefan Jänike, _ITEAL_
 
-14h-15h15: Elena Spadini, _Collatex_
+14h-15h15: Elena Spadini, _Experiments with CollateX_
 
 15h15-16h30: Anahit Safaryan: _StemmaWeb_
 

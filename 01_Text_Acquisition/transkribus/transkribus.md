@@ -30,6 +30,8 @@ The _use of dictionary_: wordlist with frequencies are created from GT data, and
 *Importing data into Transkribus* from already existing projects: for the Transkribus team, importing is not centric, and too difficult to handle given the variety of formats, except for simple text.
 Can you import text regions recognised from other software? Yes, you can for instance use dhSegment and import in Transkribus (it has already been done for this specific software).
 
+It is already possible to share models with others, but the creation of database of models is a goal.
+
 #### Other tools offered
 
 - Web interface for transcription: [http://transkribus.eu/](http://transkribus.eu/);
