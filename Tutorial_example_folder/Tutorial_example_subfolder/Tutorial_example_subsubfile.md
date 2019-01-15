@@ -3,7 +3,7 @@ title:  'Tutorial example subsubfile'
 author: J.B. Camps
 lang: en
 documentclass: article
-tags: [example, useless]
+tags: [example, empty]
 abstract: |
   This is an exemple of subsubfile.
 ---

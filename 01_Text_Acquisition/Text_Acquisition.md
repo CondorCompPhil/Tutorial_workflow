@@ -55,9 +55,12 @@ OCR/HTR is supposed to _read_ from the image, but, sometimes, we want the model 
 
 ## The softwares
 
-### dhSegment
+Detailed information can be found in the **relevant subsections**:
 
-More information can be found in the [relevant subsection](./dhsegment/dhsegment.md).
+- [dhSegment](./dhsegment/dhsegment.md);
+- [Transkribus](./transkribus/transkribus.md);
+
+
 
 
 

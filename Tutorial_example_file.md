@@ -5,7 +5,7 @@ author:
 date: \today
 lang: en
 documentclass: article
-tags: [example, useless]
+tags: [example, empty]
 abstract: |
   This is the abstract.
 
