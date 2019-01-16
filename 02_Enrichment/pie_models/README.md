@@ -1,6 +1,6 @@
 # README
 
-This directory contain some pretrained models for PIE
+## This directory contain some pretrained models for PIE
 
 `capitula.model.tar`: Lemmatizer pretrained on a non-open source dataset of medieval latin
 
@@ -11,3 +11,7 @@ This directory contain some pretrained models for PIE
 `spanish-AnCora.model.tar`: Lemmatizer pretrained on the AnCora corpus for Spanish (part of the Universal Dependencies)
 
 `turkish-IMST.model.tar`: Lemmatizer pretrained on the IMST corpus for Turkish (part of the Universal Dependencies)
+
+## Example config file for training a lemmatizer
+
+`lemma.config.json` is an example config file for training a lemmatizer to reasonable good accuracy.
