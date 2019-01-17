@@ -12,7 +12,7 @@ abstract: |
   This is the abstract.
 
   It consists of two paragraphs.
-...
+---
 
 
 ### Experiments with CollateX
@@ -20,5 +20,14 @@ abstract: |
 #### Installation
 
 ```bash
-
+# Cloner le repository
+https://github.com/CondorCompPhil/Tutorial_workflow.git
+# (installer ipython)
+sudo apt-get install ipython3-notebook
+# virtualenv
+virtualenv env -p python3.6
+source env/bin/activate
+# install collatex
+pip3 install collatex python-levenshtein graphviz
+# launch ipython notebook
 ```
