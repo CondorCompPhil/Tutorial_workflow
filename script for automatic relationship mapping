@@ -1,1 +1,5 @@
+
+
 tools/set_relations.py -t “link to tradition”-r https://api.editions.byzantini.st/ChronicleME/stemmarest/ -m -u username -p password -v -s section-name
+
+
