@@ -52,14 +52,16 @@ pip3 install collatex python-levenshtein graphviz
 jupyter notebook
 ```
 
-- Open the Notebook. Double click on the name of the file will open in a new tab.
+- Open the Notebook and run it.
+    - Double click on the name of the file; it will be opened in a new tab.
     - Select the first code cell (you'll see 'In [1]' on the left) just by placing your cursor into it and click. Then run the code using the 'Play' button in the bar above (8th button from left). The result will be (re)generated immediately. You can try with all the code cells below (all those having 'In' and a number on the left). The result will appear below each cell code.
 
 
 ## 2. Identifying categories of variants
 
-Presentation slides <https://elespdn.github.io/talks/20190117_condorcet.html#/>
+Presentation slides [Approach and basic categorization of variants](https://elespdn.github.io/talks/20190117_condorcet.html#/)
 
-Presentation slides link!!
+Presentation slides [Categorization of variants and future perspectives](https://github.com/CondorCompPhil/Tutorial_workflow/blob/master/03_Alignment/collatex_experiments/collation_categorisation_variants.pdf)
+
 
 
