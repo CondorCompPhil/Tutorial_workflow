@@ -50,5 +50,10 @@ jupyter notebook
 ```
 
 
+## 2. Identifying categories of variants
+
+Presentation slides <https://elespdn.github.io/talks/20190117_condorcet.html#/>
+
+Presentation slides link!!
 
 
