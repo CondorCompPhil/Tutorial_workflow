@@ -3,3 +3,20 @@
 tools/set_relations.py -t “link to tradition”-r https://api.editions.byzantini.st/ChronicleME/stemmarest/ -m -u username -p password -v -s section-name
 
 
+def _make_cmp_string(s):
+    """Some experimental spelling assumptions"""
+    s = re.sub('ը', '', s)   # same except for ը
+    s = re.sub('աւ', 'օ', s) # same except for spelling of long o
+    s = re.sub('է', 'ե', s)  # same except for long/short e
+    s = re.sub('եւ', 'և', s)  # same except for ew ligature-or-not
+    s = re.sub(r'(?<=[աո])՛?$', 'յ', s)  # same except for ՛ instead of յ
+    s = re.sub(r'(?<=[աո])$', 'յ', s)   # same except for omitted terminal յ
+    s = re.sub('[բփ]', 'պ', s)   # same except for labial plosives
+    s = re.sub('[գք]', 'կ', s)   # same except for velar plosives
+    s = re.sub('[դթ]', 'տ', s)   # same except for dental plosives
+    s = re.sub('[ցձ]', 'ծ', s)   # same except for alveolar affricates
+    s = re.sub('փ', 'ֆ', s)   # same exceot for 'f' forms
+    s = re.sub('[ւվ]', 'ու', s)   # same except for v/w forms
+    s = re.sub('ո', 'օ', s)   # same except for long/short o
+    s = re.sub('ր', 'ռ', s)   # same except for r forms
+    return s
