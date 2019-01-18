@@ -17,13 +17,16 @@ abstract: |
 
 ## 1. CollateX
 
-### 1.a. Presentation
-
-Presentation of CollateX. Link to workshop repo for documentation <https://github.com/DiXiT-eu/collatex-tutorial>
+### 1.a. Short intro to CollateX 
+Slides <https://elespdn.github.io/talks/20190117_condorcet.html>
 
 ### 1.b. Demo and hands-on
 
-**Installation**
+Try the Demo on CollateX website <https://collatex.net/demo/>
+
+Or (if you have Python3 on your machine) try the Python version, following the instructions here.
+
+**Install and run CollateX (python) in Jupyter notebooks**
 
 - Clone or download the repository <https://github.com/CondorCompPhil/Tutorial_workflow>.
     - To clone: ```git clone URL ```
@@ -53,15 +56,15 @@ jupyter notebook
 ```
 
 - Open the Notebook and run it.
-    - Double click on the name of the file; it will be opened in a new tab.
-    - Select the first code cell (you'll see 'In [1]' on the left) just by placing your cursor into it and click. Then run the code using the 'Play' button in the bar above (8th button from left). The result will be (re)generated immediately. You can try with all the code cells below (all those having 'In' and a number on the left). The result will appear below each cell code.
+    - Double click on 'example1.ipynb'; it will be opened in a new tab.
+    - Select the first code cell (you'll see 'In [1]' on the left) just by clicking into it. Then run the code using the 'Play' button in the bar above (8th button from left). The result will be (re)generated immediately. You can try with all the code cells below (all those having 'In' and a number on the left). The result will appear below each cell code.
 
 
 ## 2. Identifying categories of variants
 
-Presentation slides [Approach and basic categorization of variants](https://elespdn.github.io/talks/20190117_condorcet.html#/)
+Slides [Approach and basic categorization of variants](<https://elespdn.github.io/talks/20190117_condorcet.html#/10>)
 
-Presentation slides [Categorization of variants and future perspectives](https://github.com/CondorCompPhil/Tutorial_workflow/blob/master/03_Alignment/collatex_experiments/collation_categorisation_variants.pdf)
+Slides [Categorization of variants and future perspectives](https://github.com/CondorCompPhil/Tutorial_workflow/blob/master/03_Alignment/collatex_experiments/collation_categorisation_variants.pdf)
 
 
 
