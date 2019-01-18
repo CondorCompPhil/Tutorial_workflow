@@ -29,8 +29,19 @@ Or (if you have Python3 on your machine) try the Python version, following the i
 **Install and run CollateX (python) in Jupyter notebooks**
 
 - Clone or download the repository <https://github.com/CondorCompPhil/Tutorial_workflow>.
-    - To clone: ```git clone URL ```
-    - To download: download this Github repository, using the green button 'Clone or download' above. Choose 'Download ZIP'; move the zip file to a safe place in your computer where you can find it later, e.g. the 'Documents' folder; unzip it.
+
+```bash
+git clone https://github.com/CondorCompPhil/Tutorial_workflow.git
+```
+
+Alternatively, you can *download* this Github repository, using the green button 'Clone or download' above. Choose 'Download ZIP'; move the zip file to a safe place in your computer where you can find it later, e.g. the 'Documents' folder; unzip it.
+
+- (Optional!) using a virtual environnement (`virtualenv`)
+```bash
+virtualenv env -p python3.6
+source env/bin/activate
+```
+
 
 - Install Jupyter notebook (for details, see <https://jupyter.org/install.html>)
 ```bash
@@ -38,11 +49,6 @@ pip3 install --upgrade pip
 pip3 install jupyter
 ```
 
-- (Optional!) Virtualenv
-```bash
-virtualenv env -p python3.6
-source env/bin/activate
-```
 
 - install collatex (for details, see <https://pypi.org/project/collatex/>)
 ```bash
