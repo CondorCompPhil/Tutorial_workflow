@@ -43,7 +43,7 @@ source env/bin/activate
 
 - install collatex (for details, see <https://pypi.org/project/collatex/>)
 ```bash
-pip3 install collatex python-levenshtein graphviz
+pip3 install collatex python-levenshtein graphviz lxml
 ```
 
 - launch Jupyter notebook and go to the folder where you downloaded the repo (or navigate to the repo in command line and then launch Juypter notebook). A page will open in your default browser at 'http://localhost:8888'. Now you can navigate the files and open them using double click.
