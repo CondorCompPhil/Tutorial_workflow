@@ -75,7 +75,7 @@ For each tool: ratio time-investment / improvement in the results  (difficulty)
 
 ![alt text](./workflow.png "ENC example workflow")
 
-## 1. The `user-friendly', easy to deploy, quite-not-so-modular path
+## 1. The 'user-friendly', easy to deploy, quite-not-so-modular path
 
 ### Where to start?
 
@@ -108,12 +108,12 @@ existing models when relevant, and provide data samples with minimal executable 
 The goal is to help you in articulating the tools, linking and chaining them.
 
 0. Project conception: goals, expected output, canonical data model.
-1. [./01_Text_Acquisition/Text_Acquisition.md](Text Acquisition)
-2. [02_Enrichment/Enrichment.md](Text Enrichment) 
-3. [03_Alignment/Alignment.md](Text Alignment and Collation)
+1. Getting the text: [Text Acquisition](./01_Text_Acquisition/Text_Acquisition.md)
+2. Adding relevant information and structure: [Text Enrichment](./02_Enrichment/Enrichment.md) 
+3. Aligning multiple versions: [Text Alignment and Collation](03_Alignment/Alignment.md)
 4. See _common final steps_ below.
 
-## 3. The `pioneer' path: for low-ressources, 'build every model yourself from your data', cases.
+## 3. The 'pioneer' path: for low-ressources, 'build every model yourself from your data', cases.
 
 Starting from scratch: data, models, etc.
 
