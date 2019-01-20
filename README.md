@@ -10,9 +10,17 @@ You can have a look at the [example markdown file](./Tutorial_example_file.md).
 You can include materials, scripts or data into the relevant folders, and
 contribute to the writing of tutorial files and subfiles.
 
-## Tutorial root
+## READ AND CONTRIBUTE TO THE TUTORIAL
 
-The root file of the tutorial is []().
+**The root file of the tutorial is [Tutorial_MAIN.md](./Tutorial_MAIN.md).** 
+
+Each text processing step has its own folder, containing a main file (with the same name) and subfolders with the relevant software descriptions, e.g.:
+
+- [Text acquisition](./01_Text_Acquisition/Text_Acquisition.md);
+- [Collatex](./03_Alignment/collatex_experiments/README.md)
+
+
+# Workshop related information
 
 ## Workshop Schedule
 
